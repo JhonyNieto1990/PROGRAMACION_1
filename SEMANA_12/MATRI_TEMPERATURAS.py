@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np  #estuve investigando un poco la biblioteca numpy en la cual pude desarrollar el ejemplo de la siguiente manera
 
 # Definir los parámetros de la matriz
 ciudades = ['Quito', 'Cuenca', 'Guayaquil']  # Ciudades
