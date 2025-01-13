@@ -51,4 +51,20 @@ class Reserva:
         return f"Reserva de '{self.libro.titulo}' por {self.usuario.nombre} el {self.fecha_reserva}."
 
 # Creamos una instancia de la clase Libro
-libro1 = Libro("El Prin
+libro1 = Libro("El Principito", "Antoine de Saint-Exupéry")
+
+# Creamos una instancia de la clase Usuario
+usuario1 = Usuario("Juan Pérez", 1)
+
+# Mostramos los datos del libro
+print(libro1)
+
+# Creamos una instancia de la clase Reserva para el usuario y el libro
+reserva1 = Reserva(usuario1, libro1)
+
+# Realizamos la reserva del libro
+reserva1.realizar_reserva()
+
+# Mostramos el estado del libro después de la reserva
+print(libro1)
+
