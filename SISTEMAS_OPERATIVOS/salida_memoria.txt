@@ -1,0 +1,17 @@
+Proceso-A está pidiendo 4 bloques de memoria.
+Proceso Proceso-A asignó 4 bloques de memoria.
+Proceso Proceso-A ha liberado su memoria.
+Proceso-D está pidiendo 1 bloques de memoria.
+Proceso Proceso-D asignó 1 bloques de memoria.
+Proceso Proceso-D ha liberado su memoria.
+Proceso-D está pidiendo 4 bloques de memoria.
+Proceso Proceso-D asignó 4 bloques de memoria.
+Proceso Proceso-D ha liberado su memoria.
+Proceso-E está pidiendo 5 bloques de memoria.
+Proceso Proceso-E asignó 5 bloques de memoria.
+Proceso Proceso-E ha liberado su memoria.
+Proceso-D está pidiendo 3 bloques de memoria.
+Proceso Proceso-D asignó 3 bloques de memoria.
+Proceso Proceso-D ha liberado su memoria.
+Estado actual de la memoria:
+[None, None, None, None, None, None, None, None, None, None]
